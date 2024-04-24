@@ -11,4 +11,4 @@ jobs:
     uses: cachuperia/github-reusable-workflows/.github/workflows/pre-commit.yml@v1.1.0
 
   commitlint:
-    uses: cachuperia/github-reusable-workflows/.github/workflows/commitlint.yml@v1.1.0
+    uses: konyan2612/github-reusable-workflows/.github/workflows/commitlint.yml@v1.1.0
